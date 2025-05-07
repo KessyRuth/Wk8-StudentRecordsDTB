@@ -62,7 +62,7 @@ Populate the tables with sample data.
 
 🖼️ ERD (Entity-Relationship Diagram)
 
-https://github.com/KessyRuth/Wk8-StudentRecordsDTB/blob/main/Students-Record.png
+Students-Record.png
 
 📌 Notes
 Relationships are properly enforced using FOREIGN KEY constraints.

@@ -62,7 +62,7 @@ Populate the tables with sample data.
 
 🖼️ ERD (Entity-Relationship Diagram)
 
-Students-Record.png
+![ERD](./Students-Record.png)
 
 📌 Notes
 Relationships are properly enforced using FOREIGN KEY constraints.

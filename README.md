@@ -1,4 +1,4 @@
-🎓 Student Records Database (MySQL)
+# 🎓 Student Records Database (MySQL)
 📘 Project Title
 Student Records Management System
 

@@ -48,9 +48,9 @@ Open your MySQL interface (MySQL Workbench, phpMyAdmin, or terminal).
 
 Import or run the student_records.sql file:
 
-sql
-Copy
-Edit
+- sql
+- Copy
+= Edit
 SOURCE path_to/student_records.sql;
 The script will:
 
@@ -73,10 +73,5 @@ Easy to expand if more features are needed (e.g., grades, instructors, etc.)
 
 
 
-📌 Notes
-Relationships are properly enforced using FOREIGN KEY constraints.
 
-Designed for basic academic or school use cases.
-
-Easy to expand if more features are needed (e.g., grades, instructors, etc.)
 
